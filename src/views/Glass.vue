@@ -10,7 +10,9 @@
 
 <style scoped>
 .bg {
-  background: orange;
+  background-image: url(../assets/test.jpeg);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 .bg > div {
   width: 300px;
