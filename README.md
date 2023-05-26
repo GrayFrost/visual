@@ -5,6 +5,7 @@
 * console figlet
 * 选择文字时的样式
 * favicon的妙用
+* 文字打印效果
 * 进度条，环形进度条
 * swiper 不同样式的swiper
 * 星星评价

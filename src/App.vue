@@ -3,12 +3,14 @@ import Clock from './views/Clock.vue';
 import Clock2 from './views/Clock2.vue';
 import Glass from './views/Glass.vue';
 import Gray from './views/Gray.vue';
+import Pokemon from './views/Pokemon.vue';
 import Logo from './assets/vue.svg';
 </script>
 
 <template>
-  <p>color color</p>
-  <Gray />
+  <!-- <p>color color</p>
+  <Gray /> -->
+  <Pokemon />
 </template>
 
 <style scoped>
